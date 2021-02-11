@@ -1,4 +1,2 @@
 # Cookinator
-Simple recipe finder app with a fancy name.
-Using react.
-fetching from edamam api.
+Simple recipe finder app using react, with a fancy name, fetching from edamam api.
